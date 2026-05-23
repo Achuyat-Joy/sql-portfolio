@@ -1,18 +1,16 @@
 # 📊 SQL Problem-Solving Portfolio
 
-Welcome to my SQL portfolio! This repository contains my personal solutions to various database querying and data manipulation challenges from platforms like LeetCode, HackerRank, and CodeWars.
+Welcome to my SQL portfolio! This repository tracks my progress as a Data Analyst, solving database querying and data manipulation challenges from LeetCode, HackerRank, and CodeWars.
 
-As a Data Analyst, I use this space to practice writing clean, optimized, and scalable queries using different SQL dialects.
+I use this space to continually practice writing clean, optimized, and scalable queries.
 
-## 🛠️ Tech Stack & Skills Demonstrated
+## 🛠️ Tech Stack & Skills
 
-- **Languages:** MySQL, PostgreSQL, MS SQL Server
+- **Database Engine:** MySQL
 - **Core Concepts:** Complex Joins, Window Functions, Common Table Expressions (CTEs), Subqueries, Aggregations, and Data Cleaning.
 
 ## 📂 Repository Structure
 
-The solutions are organized by platform and named descriptively for easy navigation:
-
-- **`/HackerRank`** - Solutions for Basic to Advanced SQL challenges (Certifications Earned).
-- **`/LeetCode`** - Solutions focusing on the "SQL 50" study plan and real-world interview logic.
-- **`/CodeWars`** - Additional katas for logic building and syntax practice.
+- **`/HackerRank`** - Basic to Advanced SQL challenges (Basic & Intermediate Certificates Earned ✅).
+- **`/LeetCode`** - Solutions focusing on the "SQL 50" real-world interview study plan.
+- **`/CodeWars`** - Additional katas for daily logic and syntax practice.
