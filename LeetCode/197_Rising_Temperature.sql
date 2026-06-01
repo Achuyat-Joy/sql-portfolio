@@ -1,4 +1,4 @@
--- Topic: SELECT
+-- Topic: Basic Joins
 
 SELECT w1.id AS Id
 FROM Weather AS w1

@@ -1,4 +1,4 @@
--- Topic: SELECT
+-- Topic: Basic Joins
 
 SELECT v.customer_id, COUNT(t.transaction_id is null) AS count_no_trans
 FROM Visits AS v
