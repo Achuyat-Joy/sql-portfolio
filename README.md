@@ -11,6 +11,6 @@ I use this space to continually practice writing clean, optimized, and scalable 
 
 ## 📂 Repository Structure
 
-- **`HackerRank`** - Basic to Advanced SQL challenges (Basic & Intermediate Certificates Earned ✅).
-- **`LeetCode`** - Solutions focusing on the "SQL 50" real-world interview study plan.
+- **`HackerRank`** - Basic to Advanced SQL challenges (Basic, Intermediate and Advance Certificates Earned ✅).
+- **`LeetCode`** - Solutions focusing on the database problems. 
 - **`CodeWars`** - Additional katas for daily logic and syntax practice.
